@@ -31,7 +31,5 @@ Utilized the Wazuh Manager to ingest, parse, and analyze raw JSON event logs fro
 * Detected and correlated the rapid SSH authentication failures.
 * Mapped the observed malicious behaviors to **MITRE ATT&CK Technique T1110 (Brute Force)**.
 
-## 📸 Proof of Concept (Screenshots)
-*(Insert a screenshot of your Wazuh dashboard showing the T1110 Brute Force alerts here)*
+## Proof of Concept (Screenshots)
 
-*(Insert a screenshot of the Nmap/UDPx alerts here)*
