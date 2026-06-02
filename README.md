@@ -9,12 +9,12 @@ This project demonstrates the deployment, configuration, and operational use of 
 * **Attacking Machine:** Parrot OS
 * **Network Protocol:** Bridged Adapter routing for isolated host-to-guest telemetry.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 * **Infrastructure:** VirtualBox, Linux (Ubuntu/Parrot), UFW (Uncomplicated Firewall)
 * **Security & SIEM:** Wazuh Agent, Wazuh Manager
 * **Reconnaissance & Attack:** Nmap, UDPx, Netcat, SSH Brute-Forcing
 
-## 🚀 Methodology & Execution
+## Methodology & Execution
 
 ### 1. Infrastructure Engineering & Network Bridging
 * Transitioned the target VM from a standard NAT framework to a Bridged Adapter to ensure proper IP allocation on the local network.
