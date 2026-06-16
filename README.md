@@ -36,13 +36,11 @@ Utilized the Wazuh Manager to ingest, parse, and analyze raw JSON event logs fro
 
 <img width="3053" height="1532" alt="one" src="https://github.com/user-attachments/assets/2be03261-6fdc-40a6-b99e-cabb8ca23fe1" />
 Wazuh Threat Hunting dashboard detecting a simulated T1110 Brute Force attack.
-
-
-
+     
+    
 <img width="2266" height="735" alt="three" src="https://github.com/user-attachments/assets/1088ac14-ef86-427b-834c-af197713d888" />
 Expanded JSON telemetry confirming the attacker IP and target log ingestion.
-
-
-
+    
+    
 <img width="1553" height="550" alt="two" src="https://github.com/user-attachments/assets/da261bbe-208c-479f-9073-043452b3b174" />
 Target server's local syslog actively recording dropped TCP packets from the Nmap sweep.
